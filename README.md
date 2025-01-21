@@ -8,7 +8,9 @@
 - Project Goals
   
   1- Ease Collaboration
+
   2- User-Friendly Interface
+  
   3- Real-Time Interaction
 
 - Features 'Updated'
